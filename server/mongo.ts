@@ -1,7 +1,7 @@
 import { MongoClient } from 'mongodb';
 
 // Use the direct MongoDB connection string
-const MONGODB_URI = 'mongodb+srv://user1:garima@cluster0.xahr26k.mongodb.net/';
+const MONGODB_URI = 'your_secret_key';
 // Set the database name
 const DB_NAME = 'sydney_events';
 
